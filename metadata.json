@@ -1,0 +1,6 @@
+{
+  "name": "ViralClip",
+  "description": "Next-generation AI video platform implementation and workspace dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
